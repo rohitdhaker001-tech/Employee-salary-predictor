@@ -215,9 +215,9 @@ def main():
         <p class="header-subtitle">AI-Powered Indian Salary Prediction System</p>
         <div class="accuracy-badge">🎯 89% Accuracy</div>
         <div class="social-links">
-            <a href="https://github.com/Dheerajdhaker" target="_blank">📁 GitHub</a>
-            <a href="https://www.linkedin.com/in/dheeraj-kumar-malav-31643a30a/" target="_blank">💼 LinkedIn</a>
-            <a href="https://www.instagram.com/dheerajkumardhakar?igsh=M20xaTBrdzloZTV2" target="_blank">📸 Instagram</a>
+            <a href="https://github.com/rohitdhaker001-tech" target="_blank">📁 GitHub</a>
+            <a href="https://www.linkedin.com/in/rohit-dhakad-b51194360/" target="_blank">💼 LinkedIn</a>
+          
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -514,6 +514,7 @@ if __name__ == "__main__":
     st.markdown("""
         <div style="position: fixed; left: 0; bottom: 0; width: 100%; background: #1e1e1e; color: #cccccc; text-align: center; padding: 12px 0; font-size: 1rem; z-index: 100;">
             © 2025 Pay Predict. All rights reserved.<br>
-            Developed by <a href="https://github.com/Dheerajdhaker" style="color: #4fc3f7; text-decoration: none; font-weight: bold;" target="_blank">Dheeraj kumar malav</a>
+            Developed by <a href="https://github.com/rohitdhaker001-tech" style="color: #4fc3f7; text-decoration: none; font-weight: bold;" target="_blank">Rohit Kumar Dhaker</a>
         </div>
+
     """, unsafe_allow_html=True)
